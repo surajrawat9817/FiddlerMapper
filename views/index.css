@@ -154,7 +154,7 @@ table {
     text-align: left;
     overflow:scroll;
     /* white-space: nowrap; */
-    writing-mode: sideways-lr;
+    /* writing-mode: sideways-lr; */
     word-wrap: break-word;
     vertical-align: top; 
     text-wrap:pretty;
